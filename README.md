@@ -1,6 +1,6 @@
 # jobsdata-data-analysis
 ## 🇪🇸 Descripción
-En este repositorio, exploramos un dataset sobre los distintos salarios en el mundo del Big Data. El propósito de este estudio es analizar el mercado del Big Data actual, y como difieren ciertas característcas como el salario, tipo de empresa, presencialidad, etc.
+En este repositorio, exploramos con Python un dataset sobre los distintos salarios en el mundo del Big Data. El propósito de este estudio es analizar el mercado del Big Data actual, y como difieren ciertas característcas como el salario, tipo de empresa, presencialidad, etc.
 
 ## Características
 - **Extracción de datos**: Conexión y extracción de datos desde una API de datos meteorológicos.
@@ -8,10 +8,9 @@ En este repositorio, exploramos un dataset sobre los distintos salarios en el mu
 - **Visualización de datos**: Transferencia de datos seleccionados a una base de datos PostgreSQL.
 
 ## Requisitos
-- El dataset de datajobs (/data).
-- Un servidor de base de datos PostgreSQL, puede optar por otras altenativas.
-- Un fichero con las credenciales de la base de datos y del email.
-- Un email con su respectiva app password.
+- Descargar dataset de jobs_in_data.csv (/datasets/jobs_in_data.csv) o bien desde https://www.kaggle.com/datasets/murilozangari/jobs-and-salaries-in-data-field-2024.
+- Jupyter Notebook o Google Colab.
+- Librerias (matplotlib, seaborn, plotly.express, pandas, numpy)
 
 ## Contribución
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualquier cambio importante antes de realizarlo.
